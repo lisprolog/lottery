@@ -3,6 +3,7 @@ import java.util.Scanner;
 /*
 	Simple Java program to count the Austrian Lottery numbers.
 	In the numbers2.txt file are all picked numbers from 1986 until 2015.
+	LottoNumbersOrder.txt contains the result of this program.
 
 	java Lotto10 < numbers2.txt 
 */
