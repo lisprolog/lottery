@@ -1,5 +1,5 @@
 This are the Austrian Lottery Numbers (1986 - 2015) listed starting with
-the rarest number(33) until the most common number (43).
+the rarest number(33) until the most common number(43).
 
 :LottoNumber:count
 
